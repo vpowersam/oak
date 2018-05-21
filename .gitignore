@@ -23,6 +23,8 @@
 hs_err_pid*
 
 #settings
-.settings
+*/.settings/
+/.git/
 .classpath
 .project
+.prefs
