@@ -1,1 +1,9 @@
 /target/
+
+# Setting Files #
+target/
+.settings/
+.git/
+.classpath
+.project
+.prefs
