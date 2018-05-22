@@ -9,6 +9,7 @@
   <modules>
   	<module>cloud-config-server</module>
   	<module>cloud-config-client</module>
+  	<module>supplychain</module>
   </modules>
   
   
